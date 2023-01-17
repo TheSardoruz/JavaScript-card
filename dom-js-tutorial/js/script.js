@@ -7,15 +7,13 @@ let chooseBtn = document.getElementById('choose'),
  closebtn = document.querySelectorAll('.close')[0],
  message = document.getElementsByName('message')[0]
 
- //first way
 
 function hover (){
-    text.textContent = 'Tugadi'
+    text.textContent = 'end'
 }
 
 
-// second way
-// text.onmouseenter = hover
+
 
 
 //third way
